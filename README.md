@@ -1,6 +1,6 @@
 # Ariful Hasan | Senior Full-Stack Software Developer
 
-[![Deploy Portfolio](https://github.com/Ariful-hasan/Ariful-Hasan/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ariful-hasan/Ariful-Hasan/actions/workflows/deploy.yml)
+[![Deploy Portfolio](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ariful-hasan/Ariful-hasan/actions/workflows/deploy.yml)
 
 > Senior Software Engineer based in Mülheim an der Ruhr, Germany. Specialized in Fintech (CashToCode), Microservices, and building scalable web architectures.
 
