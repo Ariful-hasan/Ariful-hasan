@@ -1,58 +1,49 @@
+# Ariful Hasan | Senior Full-Stack Software Developer
+
 [![Deploy Portfolio](https://github.com/Ariful-Hasan/Ariful-Hasan/actions/workflows/deploy.yml/badge.svg)](https://github.com/Ariful-Hasan/Ariful-Hasan/actions/workflows/deploy.yml)
 
-# Ariful Hasan | Senior Full-Stack Developer
+> Senior Software Engineer based in Mülheim an der Ruhr, Germany. Specialized in Fintech (CashToCode), Microservices, and building scalable web architectures.
 
-![Build Status](https://github.com/Ariful-Hasan/Ariful-Hasan/actions/workflows/deploy.yml/badge.svg)
+[**View Live Portfolio →**](https://ariful-hasan.github.io/Ariful-Hasan/)
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
+
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Astro Starter Kit: Basics
+---
 
-```sh
-npm create astro@latest -- --template basics
-```
+## 🏗 About This Project
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+This is my professional portfolio built with a focus on performance, SEO, and clean code. It showcases my career journey, key projects, and technical endorsements.
 
-## 🚀 Project Structure
+### Key Features:
+* **Framework:** [Astro](https://astro.build/) for lightning-fast, content-focused performance.
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/) for a modern, responsive Dark UI.
+* **Deployment:** Automated via [GitHub Actions](https://github.com/features/actions) to GitHub Pages.
+* **SEO:** Optimized with automated sitemaps and meta tags.
 
-Inside of your Astro project, you'll see the following folders and files:
+---
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+## 🧞 Development Commands
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+All commands are run from the root of the project:
 
-## 🧞 Commands
+| Command | Action |
+| :--- | :--- |
+| `npm install` | Installs dependencies |
+| `npm run dev` | Starts local dev server at `localhost:4321` |
+| `npm run build` | Builds the production site to `./dist/` |
+| `npm run preview` | Previews the production build locally |
 
-All commands are run from the root of the project, from a terminal:
+---
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## 📫 Contact Me
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+* **LinkedIn:** [Ariful Hasan](https://www.linkedin.com/in/ariful-hasan-433164b3/)
+* **Email:** [arifhasan.mbstu@gmail.com](mailto:arifhasan.mbstu@gmail.com)
