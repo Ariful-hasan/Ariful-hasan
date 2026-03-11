@@ -56,20 +56,9 @@ I am a results-driven **Senior Full-Stack Software Engineer** with over a decade
 
 ---
 
-### 📊 GitHub Insights & Achievements
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariful-hasan&theme=stone" alt="GitHub Profile Details" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ariful-hasan&theme=stone" alt="Most Committed Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ariful-hasan&theme=stone" alt="GitHub Stats" />
-</p> -->
-
 <p align="center">
 <a href="http://www.github.com/Ariful-hasan"><img src="https://github-readme-stats.vercel.app/api?username=Ariful-hasan&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub stats" /></a>
-<a href="https://github.com/Ariful-hasan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-hasan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/Ariful-hasan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-hasan&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" /></a> -->
 </p>
 
 ---
